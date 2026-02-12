@@ -42,10 +42,10 @@ const App: React.FC = () => {
           { id: '4', labelAr: 'خطط الأسعار', labelEn: 'Pricing', href: '#pricing' },
         ],
         socialLinks: {
-          facebook: '#',
-          instagram: '#',
-          twitter: '#',
-          youtube: '#'
+          facebook: 'https://www.facebook.com/share/1AnKYbBSu1/',
+          instagram: 'https://www.instagram.com/bayanacademysd',
+          twitter: 'https://x.com/BayanAcademysd',
+          youtube: 'https://www.youtube.com/@BayanAcademysd'
         }
       };
       setSiteData(initialContent);
